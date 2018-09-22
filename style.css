@@ -243,7 +243,7 @@ select:focus {
 }
 /* section 2 */
 .section-2-left-side{
-    animation: moveInRight 16s ease-out; 
+    animation: moveInRight 1.6s ease-out; 
 }
 .section-2-right-side {
     display: flex;
